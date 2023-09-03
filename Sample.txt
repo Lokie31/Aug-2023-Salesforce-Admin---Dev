@@ -1,0 +1,26 @@
+
+Hotel: "Seaside Paradise"
+Deal 1: "Summer Getaway"
+Deal 2: "Weekend Special: Stay 2 Nights, Get 1 Free"
+Hotel: "Mountain View Lodge"
+
+Deal 1: "Adventure Package"
+Deal 2: "Winter Retreat"
+Hotel: "Urban Oasis Inn"
+
+Deal 1: "City Explorer Deal"
+Deal 2: "Extended Stay Discount"
+Hotel: "Historic Manor"
+
+Deal 1: "Romantic Getaway"
+Deal 2: "Cultural Experience Package"
+Hotel: "Family-Friendly Resort"
+
+Deal 1: "Kids Stay Free"
+Deal 2: "All-Inclusive Family Package"
+
+
+Say, I have a custom obj named 'Project'. I would like to ensure 'Project' object is updated thru external system. 
+I have a profiled named 'External System' and a user named 'Intergation User'
+
+How do I ensure External System profiles users load data only via APIs or back end and not thru UI
